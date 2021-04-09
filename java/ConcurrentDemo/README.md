@@ -8,3 +8,5 @@
 
 ### 目录导航
 - [Java中高级编程系列：文章索引目录](https://www.renfei.net/posts/1003487)
+- [Java中高级高并发与多线程系列（一）：高并发与多线程有什么关系](https://www.renfei.net/posts/1003491)
+- [Java中高级高并发与多线程系列（二）：Thread 类与 Runnable 接口](https://www.renfei.net/posts/1003494)
